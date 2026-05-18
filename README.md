@@ -7,6 +7,7 @@ A SwiftUI macOS app that shows why `Table` beats `List` for tabular data — usi
 ## 🤔 What this is
 
 Catalogue is a side-by-side demonstration of SwiftUI's `Table` and `List` views on macOS. It uses a curated movie dataset to make the tradeoffs concrete: sortable columns, multi-row selection, context menus, column customization, and a custom `RatingBadge` — all things `Table` handles natively that `List` simply can't.
+If you're looking for the movie lists they can be found [Here (2024)](https://gist.github.com/NDCSwift/a3944fecb9e1d0ac101eb643500adb7f) and [Here (Multiple Years)](https://gist.github.com/NDCSwift/1e662c9e4e92a4623c45f5d2141ec469)
 
 ## ✅ Why you'd use it
 
